@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Rohit Dange 👋</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-- Pet Info **A pet management application featuring buy-and-sell modules, search functionality, and notifications.**
-
 - Online No Dues Certification **A web system for managing No Dues certification with real-time tracking and secure approvals.**
+
+- Pet Info **A pet management application featuring buy-and-sell modules, search functionality, and notifications.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RohitDange2814](https://github.com/RohitDange2814)
 
