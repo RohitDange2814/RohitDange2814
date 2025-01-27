@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Rohit Dange 👋</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/7785318b-5f5a-4ed6-afad-75d649505e24)
-">
+<img align="right" alt="coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
 - 👨‍💻 All of my projects are available at [https://github.com/RohitDange2814](https://github.com/RohitDange2814)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/rohit-dange-93b28b247](https://www.linkedin.com/in/rohit-dange-93b28b247)
