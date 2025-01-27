@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Rohit Dange 👋</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=NfWRG2dh&id=D7DA7A995C1A7A4FE44D291ED13113558AC33513&thid=OIP.NfWRG2dh7NKS4O6bhZa2nwHaEK&mediaurl=https%3a%2f%2fcdna.artstation.com%2fp%2fassets%2fimages%2fimages%2f028%2f102%2f058%2foriginal%2fpixel-jeff-matrix-s.gif%3f1593487263&exph=900&expw=1600&q=Animated+Coding+GIF+for+GitHub&simid=607986809702465517&FORM=IRPRST&ck=820C9020C3A919B71D360F26FC2AA88A&selectedIndex=26&itb=0">
 - 👨‍💻 All of my projects are available at [https://github.com/RohitDange2814](https://github.com/RohitDange2814)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/rohit-dange-93b28b247](https://www.linkedin.com/in/rohit-dange-93b28b247)
