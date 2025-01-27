@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Rohit Dange 👋</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=NfWRG2dh&id=D7DA7A995C1A7A4FE44D291ED13113558AC33513&thid=OIP.NfWRG2dh7NKS4O6bhZa2nwHaEK&mediaurl=https%3a%2f%2fcdna.artstation.com%2fp%2fassets%2fimages%2fimages%2f028%2f102%2f058%2foriginal%2fpixel-jeff-matrix-s.gif%3f1593487263&exph=900&expw=1600&q=Animated+Coding+GIF+for+GitHub&simid=607986809702465517&FORM=IRPRST&ck=820C9020C3A919B71D360F26FC2AA88A&selectedIndex=26&itb=0">
+<img align="right" alt="coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=IBoPzgI7&id=0C711905419BAFCF94336E0F34274FFB07E6848B&thid=OIP.IBoPzgI7K2WQprGKT91PFgHaEq&mediaurl=https%3a%2f%2fuser-images.githubusercontent.com%2f55389276%2f140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&exph=428&expw=680&q=Animated+Coding+GIF+for+GitHub&simid=608017823659469934&FORM=IRPRST&ck=D3CFBDF99E6C0BF9C576F53597759103&selectedIndex=3&itb=0">
 - 👨‍💻 All of my projects are available at [https://github.com/RohitDange2814](https://github.com/RohitDange2814)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/rohit-dange-93b28b247](https://www.linkedin.com/in/rohit-dange-93b28b247)
